@@ -1,0 +1,26 @@
+Data Types of The Columns in Data Frame
+Names
+Countries
+Boolean
+Housello
+Location
+dtype: object
+object
+object
+bool
+int64
+float64
+Data types on accessing a single column of the Data Frame
+Type of Names Column:
+Type of HouseNo Column:
+<class pandas.core.series.Series >
+<class pandas.core.series.Series >
+<class str>
+Data types of individual elements of a particular columns Data Frame
+Type of Names Column Element :
+Type of Boolean Column Element :
+Type of HouseNo Column Element :
+Type of Location Column Element :
+<class numpy.bool_">
+<class numpy.int64">
+<class numpy.float
